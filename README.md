@@ -28,8 +28,8 @@ There may be other libraries we download down the line that may be a bit more di
 
 
 ## Participating in the Journal Club
-
+To take part in the journal club, the best approach would be to fork this repository and add to your own version of this repo as we go. There will be plenty of space for us to fill in information as we go along and you'll also be able to host your projects in your repos as well. 
 
 
 ## Contributions
-
+If you see an error or bug that may need to be fixed, start off by creating an issue for it in GitHub! If you need to fix something, start off by creating a different branch for the issue and create a pull request. Then, request to merge to main and put down a detailed description of the changes in the merge request as well as assign @priyanshumahey as a reviewer to ensure that the changes are allowed.
