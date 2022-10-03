@@ -10,6 +10,14 @@ There will also be time and space dedicated towards project creation.
 
 ## How to Use this Repo
 ### Introudction
+Welcome to the official Repo for the AI journal club! The AI journal club will be hosting weekly meetings (both online and in person) where we'll teach basic deep learning neural networks as well as discuss recent papers in deep learning.
+
+This repo will be updated as time goes on with the different lessons for that day related to what we will be teaching. The early lessons will go over PyTorch and deep learning and then later on, we'll be going over and building some more complex modern deep learning neural networks involving CNNs, RNNs, LSTMs, GNNs, etc.
+
+Throughout this, we'll also be pairing people up to work on projects together to give more exposure to deep learning. Projects will then be presented later towards the end of the AI journal club. More details will be provided closer to the date.
+
+To use this repo, fork the repo and follow along with the contents of the tutorials. The papers will also be linked in the lessons for that week as well.
+
 
 ### Pre Requisites for thiS Repo
 We'll be primarily using Python, PyTorch, VS Code, and Jupyter Notebooks. Prior to coming to the journal club, ensure you have those up and running! Alternatively, you could also use Google Colab. If you plan on downloading PyTorch, we won't be doing anything too intensive to feel free to download the CPU version as the GPU version may come with a slew of difficulties that may be challanging to troubleshoot.
