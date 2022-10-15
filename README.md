@@ -34,8 +34,7 @@ There may be other libraries we download down the line that may be a bit more di
 - TensorFlow
 - Keras
 
-To learn a bit more about setting up all these libraries, check out the setup.ipynb notebook in lessons.
-
+To learn a bit more about setting up all these libraries, check out the setup.ipynb notebook in lessons. The notebook is written in a Jupyter Notebook and thus if you're not familiar with how Jupyter works, you can also check out JupyterNotebooks.md to learn more about how to view them and run them.
 
 ## Participating in the Journal Club
 To take part in the journal club, the best approach would be to fork this repository and add to your own version of this repo as we go. There will be plenty of space for us to fill in information as we go along and you'll also be able to host your projects in your repos as well. 
